@@ -1,0 +1,5 @@
+{
+  "name": "StudentManager",
+  "description": "A comprehensive Student Management System featuring dashboards, student lists, profiles, class management, and grade tracking with a clean, responsive UI.",
+  "requestFramePermissions": []
+}
