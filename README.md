@@ -1,20 +1,90 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Student Management System
 
-# Run and deploy your AI Studio app
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Vite](https://img.shields.io/badge/Vite-Build-purple)
 
-This contains everything you need to run your app locally.
+# Project Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Cs4bT3eU9pxA0GTJj7vYugMaWmDqGAY6
+A full-stack student management system developed to manage student information, classes and academic activities efficiently.
 
-## Run Locally
+This project includes frontend, backend, API integration and database-related functionalities.
 
-**Prerequisites:**  Node.js
+# Project Purpose
 
+This project was developed to improve student data management efficiency and support educational administrative processes through a modern web-based system.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Main Features
+
+- Student information management
+- Class management
+- Search and filtering
+- API integration
+- Data synchronization
+- Responsive web interface
+- Backend server handling
+
+# System Architecture
+
+- Frontend: React + Vite
+- Backend: Node.js + Express
+- API Communication
+- Database Integration
+
+# Technologies Used
+
+# Frontend
+- React
+- Vite
+- JavaScript
+- HTML/CSS
+
+# Backend
+- Node.js
+- Express.js
+
+# Other Technologies
+- REST API
+- JSON
+
+# My Responsibilities
+
+- Business Analysis
+- Requirement Analysis
+- Frontend Development
+- API Integration
+- UI Design
+- System Structure Organization
+#  Project Structure
+```text
+student-management-system
+ ┣ backend
+ ┣ components
+ ┣ context
+ ┣ images
+ ┣ pages
+ ┣ services
+ ┣ server
+ ┣ src
+ ┣ style
+ ┣ utils
+ ┣ views
+ ┣ package.json
+ ┣ vite.config.js
+ ┗ README.md
+```
+# Installation & Setup
+# Install dependencies
+```bash
+npm install
+```
+# Run project
+```bash
+npm run dev
+```
+# Additional Documents
+
+- API Integration Guide
+- Backend Summary
+- Setup & Synchronization Summary
