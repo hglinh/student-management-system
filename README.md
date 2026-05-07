@@ -83,6 +83,12 @@ npm install
 ```bash
 npm run dev
 ```
+# Screenshots
+## Dashboard
+![Dashboard](dashboard.png)
+## Login
+![Login](login.png)
+
 # Additional Documents
 
 - API Integration Guide
